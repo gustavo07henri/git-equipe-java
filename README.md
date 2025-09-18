@@ -1,2 +1,2 @@
 # git-equipe-java
-Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = Helder
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = Helder, Gustavo
